@@ -10,6 +10,7 @@
  ### Link-  https://drive.google.com/file/d/1-x4RSX0YgdisfRdAac4x3awO81cZfa4u/view?usp=sharing
  
   ## Folder Structure
+  > **A:** Because you don't want to test the code, you want to test the *program*.
  MachineLearning_Assignments
     |
     |
