@@ -1,11 +1,3 @@
-# MachineLearning_Assignments
-Machine Learning - 22002 - CS 5710
-Name:  ()
-
-1. 
-Video Link: 
-
-
 # CS5710 Assignments
  ## Student Info:
   ### Name- Mukul Rai
@@ -19,5 +11,5 @@ Video Link:
  
  ## Short Description
   **Assignment 1 Implementation of Machine Learning CS5710-**
- This assignment is completed in Jupyter Notebook with all Questions and Answers, depicting my understanding of the concepts of Sets, List, Tuples, Dictionary, Calculations, Manipulations of data types in Python. It also shows my understanding of how training and testing of model functions with an example of KNN Classification. Please find some specifics of the files and tools used during this implementation:<br>
-    <ul> Tools Used- Python 3.7, Jupyter Notebook</ul>
+ This assignment is completed in Google Colab with all Questions and Answers, depicting my understanding of the concepts of Sets, List, Tuples, Dictionary, Calculations, Manipulations of data types in Python. It also shows my understanding of how training and testing of model functions with an example of KNN Classification. Please find some specifics of the files and tools used during this implementation:<br>
+    <ul> Tools Used- Google Colab, Github</ul>
