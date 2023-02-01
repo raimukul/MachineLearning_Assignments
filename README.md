@@ -5,12 +5,11 @@
   ### CRN- 22002
   ### Email- mxr85680@ucmo.edu
  
- ## Video Link
- ### Assignment 01 
- ### Link-  https://drive.google.com/file/d/1-x4RSX0YgdisfRdAac4x3awO81cZfa4u/view?usp=sharing
+ ### Video Link
+ #### Assignment 01 Link-  https://drive.google.com/file/d/1-x4RSX0YgdisfRdAac4x3awO81cZfa4u/view?usp=sharing
+ #### Assignment 02 Link-  https://drive.google.com/file/d/1-x4RSX0YgdisfRdAac4x3awO81cZfa4u/view?usp=sharing
  
-<!--   ## Folder Structure
-  > **A:** Because you don't want to test the code, you want to test the *program*.
+### Folder Structure
  MachineLearning_Assignments
     |
     |
@@ -18,7 +17,12 @@
     │   ├── Code                # All codes are in this folder.
     │   ├── Screenshots         # Screenshot attached of outputs
     │   └── Pdf                 # Pdf file for desciption
-    └── ... -->
+    |
+    ├── Assignment 02                    
+    │   ├── Code                # All codes are in this folder.
+    │   ├── Screenshots         # Screenshot attached of outputs
+    │   └── Pdf                 # Pdf file for desciption
+    └── 
     
  ## Short Description
   **Assignment 1 Implementation of Machine Learning CS5710-**
